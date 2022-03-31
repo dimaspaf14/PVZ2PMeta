@@ -4,7 +4,7 @@ PVZ2PAK is the best mod of PVZ1 which restores PVZ2 by [JiangNanGame](http://www
 
 This Fork of PvZ2 Pak fixes issues most people have with the original PvZ2 Pak.(Credits To @ATOMICFAZBEAR)
 
-This Fork is Planned to follow PVZ2 Meta. Such as Damage, DamagePerSecs, HealthPoint, RechargeTime, ZombieDamage, ZombieArmor, & More!
+This Fork is Planned to follow PVZ2 Meta. Such as DamagePerSecs, HealthPoint, RechargeTime, ZombieDamage, ZombieArmor, & More!
 
 PVZ2PAK is free. We welcome everyone who follows [The Changjiang River License](https://github.com/jiangnangame/The-Changjiang-River-License) to improve it after we stop updating and maintaining it.
 
